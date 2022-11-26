@@ -1,6 +1,6 @@
 {
 	"token":"",
-	"owner": "194818294526509058",
+	"owner": "",
 	"dbAddress": "mongodb://localhost/discord",
 	"defaultPrefix": "o/",
 	"incidentsChannel": "incidents",
